@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hey, I'm Charles Lee | StationaryDev37
 
-<!--
-**StationaryDev37/StationaryDev37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Independent ZK Architect specializing in mobile-first zero-knowledge privacy layers, asynchronous client networks, and cryptographic state migrations. I focus heavily on writing optimized Noir circuits and leveraging the Aztec Protocol under resource-constrained conditions.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack & Core Competencies
+* **ZK Toolchains & Languages:** Noir, Aztec Network SDK, Rust, Go, Solidity
+* **Mobile / Frontend Runtimes:** React Native, Expo, TypeScript, TailwindCSS
+* **Hardware Optimization:** Architecture constraints (Dimensity 6300 / 4GB RAM environments)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚓ Active Flagship Repositories
+* 🔐 **[aztec-mobile-sandbox](https://github.com)** - Resource-optimized React Native connector linking mobile hardware to remote PXE networks via hardened JSON-RPC.
+* 🦐 **[iron-shrimper](https://github.com)** - Private Marine Oracle data-ingestion models and cryptographic state verification layers.
+
+---
+*"Commit clean code, track your state transformations, and verify your inputs locally."*
